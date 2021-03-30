@@ -192,8 +192,10 @@ _bz2
     Homepage:
         http://www.bzip.org/
 _ssl
-    Python wrapper for version 1.0.2s of the OpenSSL secure sockets
-    library, which is built by ssl.vcxproj
+    Python wrapper for version 1.1.1k of the OpenSSL secure sockets
+    library, which is downloaded from our binaries repository at
+    https://github.com/python/cpython-bin-deps.
+
     Homepage:
         http://www.openssl.org/
 
